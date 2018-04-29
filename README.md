@@ -7,4 +7,5 @@ Frontend da página de webstreaming da Rádio da AEISCTE-IUL. O server-side foi 
 ## To do
 - Suporte para dispositivos móveis (elemento audio não funciona em telemóveis/tablets e media queries CSS).
 - Finalização de pormenores da estilização da página (margens, min/max-width/height).
-- (Server-side) Sincronizar a música a tocar com a stream. Atualmente tem um delay de ~15 segundos. 
+- (Server-side) Sincronizar a música a tocar com a stream. Atualmente tem um delay de ~15 segundos.
+- Slider para volume
